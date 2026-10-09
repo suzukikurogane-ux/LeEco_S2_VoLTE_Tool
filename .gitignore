@@ -1,0 +1,16 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User-specific runtime device backups (contains sensitive IMEI & RF calibration)
+backups/
+*.img
+
+# Embedded Python runtime (distribute via GitHub Releases instead)
+python/
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
